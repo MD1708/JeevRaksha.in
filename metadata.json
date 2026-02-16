@@ -1,0 +1,7 @@
+{
+  "name": "JeevRaksha by MD Creation",
+  "description": "A social welfare project to help identify individuals in emergencies through QR-coded identity systems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
